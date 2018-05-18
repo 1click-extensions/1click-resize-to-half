@@ -1,1 +1,1 @@
-1click-resize-to-half
+1Click-resize-to-half

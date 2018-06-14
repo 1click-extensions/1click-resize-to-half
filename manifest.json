@@ -3,9 +3,6 @@
     "short_name": "__MSG_ext_name__",
     "version": "1.0",
     "description": "__MSG_ext_desc__",
-    "permissions": [
-          "windows"
-        ],
     "background": {
       "scripts": ["background.js"],
       "persistent": false

@@ -23,7 +23,7 @@ chrome.browserAction.onClicked.addListener(function(tab){
     }
 
     chrome.windows.update(wind.id,options);
-    injectJsCurrentTab();
+    setTimeout(injectJsCurrentTab,3000);
   });
 });
 
